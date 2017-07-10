@@ -74,6 +74,7 @@ namespace WebAppMvc.Tests.Core
                 Email = "yogi@hmail.com"
             };
 
+
             var obj = new UserDao();
             var res = obj.Update(user);
             Assert.AreEqual(true, res);
