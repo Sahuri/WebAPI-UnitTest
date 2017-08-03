@@ -12,7 +12,7 @@ namespace WebAppMvc.Tests.Controllers
     [TestClass()]
     public class UserControllerTests
     {
-        const string FileUser = @"F:\users.json";
+        const string FileUser = @"users.json";
         [TestMethod()]
         public void GetAllTest()
         {

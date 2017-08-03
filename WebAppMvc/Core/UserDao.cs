@@ -11,7 +11,7 @@ namespace WebAppMvc.Core
 {
     public class UserDao
     {
-        const string FileUser = @"F:\users.json";
+        const string FileUser = @"users.json";
         public UserDao()
         {
             

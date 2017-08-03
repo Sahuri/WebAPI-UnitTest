@@ -10,7 +10,7 @@ namespace WebAppMvc.Tests.Core
     public class UserDaoTests
     {
 
-        const string FileUser = @"F:\users.json";
+        const string FileUser = @"users.json";
         [TestMethod()]
         public void GetAllTest()
         {
