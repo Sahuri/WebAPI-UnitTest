@@ -61,9 +61,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WebAppMvc\WebAppMvc.csproj">
+    <ProjectReference Include="..\WebAppMvc\backendwebapi.csproj">
       <Project>{C23BBD3B-ABA6-42FF-8694-256DFD789E39}</Project>
-      <Name>WebAppMvc</Name>
+      <Name>backendwebapi</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

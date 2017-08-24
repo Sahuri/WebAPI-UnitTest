@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppMvc", "WebAppMvc\WebAppMvc.csproj", "{C23BBD3B-ABA6-42FF-8694-256DFD789E39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backendwebapi", "WebAppMvc\backendwebapi.csproj", "{C23BBD3B-ABA6-42FF-8694-256DFD789E39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppMvc.Tests", "WebAppMvc.Tests\WebAppMvc.Tests.csproj", "{312F3498-9E89-4D2C-B226-38D59B8303A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backendwebapi.Tests", "WebAppMvc.Tests\backendwebapi.Tests.csproj", "{312F3498-9E89-4D2C-B226-38D59B8303A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
