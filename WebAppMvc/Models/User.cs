@@ -13,7 +13,7 @@ namespace WebAppMvc.Models
         public String Propesion { get; set; }
         public String Phone { get; set; }
         public String Email { get; set; }
-        //comment
+        //mas sayang ayah
     }                         
 
 }
