@@ -10,7 +10,7 @@ namespace WebAppMvc
     public class WebApiApplication : System.Web.HttpApplication
     {
         protected void Application_Start()
-        {
+        {//comment
             GlobalConfiguration.Configure(WebApiConfig.Register);
         }
     }
